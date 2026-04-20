@@ -4,7 +4,7 @@
 
 </div>
 
-## �‍💻 About Me
+## 👨‍💻 关于我
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BluerAngala&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -14,40 +14,14 @@
 
 <br/>
 
-- 🔭 **Current Focus**: AI-driven tools & legal tech applications
-- 🌱 **Learning**: Advanced AI/ML, Agentic Systems
-- 💡 **Passionate about**: Building practical AI tools that make life easier
-- 🚀 **Projects**: Open-source AI tools, legal tech, productivity apps
+- 🔭 **当前专注**: AI 驱动工具 & 法律科技应用
+- 🌱 **正在学习**: 高级 AI/ML, Agentic 系统
+- 💡 **热爱**: 构建实用的 AI 工具，让生活更简单
+- 🚀 **项目**: 开源 AI 工具、法律科技、生产力应用
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
-
-### AI & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/MCP-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJabTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4Wk0xMSA3aDJ2NmgxMmgtMTJWN1oiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==" alt="MCP" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+##  GitHub 统计
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BluerAngala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
@@ -64,7 +38,7 @@
 
 ---
 
-## � Featured Projects
+## 🚀 精选项目
 
 <table>
   <tr>
@@ -111,7 +85,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 联系我
 
 <div align="center">
   <a href="https://github.com/BluerAngala" target="_blank">
@@ -123,19 +97,11 @@
 
 <div align="center">
   
-### 🎯 Fun Facts
-- � Love building tools that solve real problems
-- ⚡ Always exploring new AI technologies
-- 🌟 Open source enthusiast
-- 📚 Lifelong learner
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/BluerAngala/BluerAngala/blob/output/github-contribution-grid-snake.svg)
+### 🎯 有趣的事
+- 💡 喜欢构建解决实际问题的工具
+- ⚡ 总是在探索新的 AI 技术
+- 🌟 开源爱好者
+- 📚 终身学习者
 
 </div>
 
