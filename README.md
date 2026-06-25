@@ -40,10 +40,20 @@
 
 <div align="center">
 
-`TypeScript` · `Python` · `Vue` · `Rust` · `Tauri` · `React` · `Node.js` · `SiliconFlow` · `DeepSeek` · `Claude` · `OpenAI` · `腾讯元器`
+**技术栈**
+
+`TypeScript` · `Python` · `Vue` · `Rust` · `Tauri` · `React` · `Node.js`
+
+`SiliconFlow` · `DeepSeek` · `Claude` · `OpenAI` · `腾讯元器`
 
 <br/>
 
-微信：陈恒律师（公众号「岭南所」） · 邮箱：1107117864@qq.com
+**联系方式**
+
+[飞书主页](https://lawyerch.feishu.cn/wiki/SzKVwp7PMizeQ4kT2RpcGUppnle) · 公众号「岭南所」 · GitHub: [@BluerAngala](https://github.com/BluerAngala)
+
+<br/>
+
+<sub>最后更新 2026-06-25</sub>
 
 </div>
