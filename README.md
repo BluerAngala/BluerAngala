@@ -34,18 +34,10 @@
 
 [写作规范](./SPEC.md) · [全部文章](./journal/)
 
-### 职业思考 · [更多 →](./journal/thinking/)
-
-- [AI时代，律师到底在卖什么？](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md)
-- [我把54个GitHub仓库砍到6个，然后想明白了一件事](./journal/thinking/2026-06-25-github-reorganization.md)
-
-### 法律思考 · [更多 →](./journal/legal/)
-
-*（即将开始）*
-
-### 开发日志 · [更多 →](./journal/dev/)
-
-*（即将开始）*
+| [职业思考](./journal/thinking/) | [法律思考](./journal/legal/) | [开发日志](./journal/dev/) |
+|:---|:---|:---|
+| [AI时代，律师到底在卖什么？](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | | |
+| [我把54个GitHub仓库砍到6个，然后想明白了一件事](./journal/thinking/2026-06-25-github-reorganization.md) | | |
 
 ---
 
