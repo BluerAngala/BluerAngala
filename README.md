@@ -36,10 +36,7 @@
 
 | [思考](./journal/thinking/) | [实践](./journal/dev/) |
 |:---|:---|
-| [AI时代，律师到底在卖什么？](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | |
-| [我把54个GitHub仓库砍到6个，然后想明白了一件事](./journal/thinking/2026-06-25-github-reorganization.md) | |
-
----
+| [AI时代，律师到底在卖什么？](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [我把54个GitHub仓库砍到6个，然后想明白了一件事](./journal/thinking/2026-06-25-github-reorganization.md) |
 
 <div align="center">
 
