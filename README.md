@@ -50,7 +50,7 @@
 
 **联系方式**
 
-[飞书主页](https://lawyerch.feishu.cn/wiki/SzKVwp7PMizeQ4kT2RpcGUppnle) · 公众号「岭南所」 · GitHub: [@BluerAngala](https://github.com/BluerAngala)
+[飞书主页](https://lawyerch.feishu.cn/wiki/SzKVwp7PMizeQ4kT2RpcGUppnle) · 公众号「陈恒律师日志」 · GitHub: [@BluerAngala](https://github.com/BluerAngala)
 
 <br/>
 
