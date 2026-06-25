@@ -6,13 +6,12 @@
 
 ## 写什么
 
-三种内容，三个文件夹：
+两种内容，两个文件夹：
 
 | 类型 | 文件夹 | 写什么 |
 |---|---|---|
-| 法律思考 | `journal/legal/` | 执业观察、案例复盘、行业思考 |
-| 开发日志 | `journal/dev/` | 做了什么、为什么做、踩了什么坑 |
-| 职业思考 | `journal/thinking/` | 律师+开发者的双重身份、AI时代转型 |
+| 思考 | `journal/thinking/` | 对行业、职业、第一性原理的深度思考 |
+| 实践 | `journal/dev/` | 具体做了什么、怎么做的、踩了什么坑 |
 
 ## 文件命名
 
@@ -28,8 +27,7 @@ YYYY-MM-DD-简短英文标题.md
 ---
 title: 中文标题
 date: YYYY-MM-DD
-category: legal | dev | thinking
-tags: [标签1, 标签2]
+category: thinking | dev
 status: draft | published
 summary: 一句话摘要（50字以内）
 ---
