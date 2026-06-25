@@ -1,10 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=陈恒律师;Legal+Tech+%C3%97+AI+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=你好呀，我是陈恒律师;Hi%2C+I'm+Attorney+Chen+Heng;Legal+Tech+%C3%97+AI+Developer)
 
 <br/>
 
-**执业律师** · 岭南律师事务所（广州） · **AI 独立开发者**
+**执业律师** · **AI 独立开发者**
 
 `法律科技` · `AI 驱动工具` · `用代码解决律师执业中的真实痛点`
 
@@ -37,6 +37,8 @@
 | [思考](./journal/thinking/) | [实践](./journal/dev/) |
 |:---|:---|
 | [AI时代，律师到底在卖什么？](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [我把54个GitHub仓库砍到6个，然后想明白了一件事](./journal/dev/2026-06-25-github-reorganization.md) |
+
+---
 
 <div align="center">
 
