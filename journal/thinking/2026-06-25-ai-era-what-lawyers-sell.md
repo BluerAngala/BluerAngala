@@ -6,6 +6,8 @@ tags: [法律科技, AI时代, 第一性原理, 职业本质]
 status: draft
 summary: 拆到底，律师卖的不是法律知识，是信用和责任的人格化载体。
 ---
+![封面](./imgs/cover-ai-era-lawyers.png)
+
 
 ## 背景
 
