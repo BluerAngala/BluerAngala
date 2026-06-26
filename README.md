@@ -20,7 +20,7 @@
 
 ## 法律科技产品
 
-| 产品 | 一句话 | 技术 |
+| 产品 | 一句话介绍 | 技术栈 |
 |:---|:---|:---|
 | [**陈恒律师AI工具箱**](https://github.com/BluerAngala/cc-wps-lawtools) | WPS 加载项 · AI 合同审查 / 风险扫描 / 信息脱敏 / 30+ 文书模板 | Vue 3 · 腾讯元器 AI |
 | [**飞书法律工具箱**](https://github.com/BluerAngala/feishu-lawtools) | 飞书法律条文导入 / 划重点 / AI 批注解读 · 兼容 pi / Claude Code | Python · lark-cli |
@@ -61,7 +61,6 @@
 
 <br/>
 
-<sub>最后更新 2026-06-25</sub>
 
 </div>
 
