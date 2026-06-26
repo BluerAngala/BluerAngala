@@ -36,7 +36,11 @@
 
 | [思考](./journal/thinking/) | [实践](./journal/dev/) |
 |:---|:---|
-| [2026-06-25-ai-era-what-lawyers-sell](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [project-kickoff-ts-rewrite](./journal/dev/self-growing-agent/project-kickoff-ts-rewrite.md) |
+| [2026-06-25-ai-era-what-lawyers-sell](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [hearing-journey](./journal/dev/self-growing-agent/hearing-journey.md) |
+|  | [infrastructure-memory](./journal/dev/self-growing-agent/infrastructure-memory.md) |
+|  | [llm-migration](./journal/dev/self-growing-agent/llm-migration.md) |
+|  | [pitfalls-and-improvements](./journal/dev/self-growing-agent/pitfalls-and-improvements.md) |
+|  | [project-kickoff-ts-rewrite](./journal/dev/self-growing-agent/project-kickoff-ts-rewrite.md) |
 
 
 ---
