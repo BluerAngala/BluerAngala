@@ -1,10 +1,10 @@
 ---
 title: "踩坑与改进——从听觉 v1 到语音对话的「边修边长」"
 date: 2026-06-26
-category: dev
+project: self-growing-agent
 tags: ["AI Agent", "语音识别", "踩坑记录", "build-in-public", "听觉系统"]
+category: dev
 status: draft
-summary: "上一篇写了听觉系统从 v1 到 v7 的 20 次迭代，但其实有几组 commits 被跳过了——它们要么太早（v1 架构的听觉实验），要么太新（v7 之后的体..."
 ---
 
 ![踩坑与改进](../images/pitfalls-and-improvements-cover.png)

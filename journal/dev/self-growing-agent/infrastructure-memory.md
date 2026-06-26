@@ -1,10 +1,10 @@
 ---
 title: "给 AI Agent 造一套五感和记忆检索——从能思考到能自主探索"
 date: 2026-06-26
-category: dev
+project: self-growing-agent
 tags: ["AI Agent", "infrastructure", "memory", "perception", "build-in-public", "series"]
+category: dev
 status: draft
-summary: "我的自生长 Agent 跑了一段时间后，我发现了一个诡异的行为：**它在反复读同一个文件。**"
 ---
 
 ![给 AI Agent 造一套五感和记忆检索](../images/infrastructure-memory-cover.png)

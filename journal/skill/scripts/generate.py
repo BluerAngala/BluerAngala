@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""Sync dev journal articles to BluerAngala-journal/journal/dev/.
-Follows existing frontmatter convention: title, date, category, tags, status, summary."""
+"""Sync dev journal articles to BluerAngala-journal/journal/dev/."""
 import sqlite3, os, re, json
 from pathlib import Path
 from datetime import datetime
@@ -8,19 +7,6 @@ from datetime import datetime
 GLOBAL_DB = os.path.expanduser("~/.omp/journal.db")
 JOURNAL = Path(os.path.expanduser("~/Documents/vibecoding/BluerAngala-journal/journal"))
 DEV_DIR = JOURNAL / "dev"
-
-def extract_summary(content):
-    """从文章第一段提取摘要（前 80 字）。"""
-    # 去掉 frontmatter
-    body = re.sub(r'^---.*?---\s*', '', content, flags=re.DOTALL)
-    # 去掉封面图
-    body = re.sub(r'^\!\[.*?\]\(.*?\)\s*', '', body)
-    # 取第一个非空段落
-    for line in body.split('\n'):
-        line = line.strip()
-        if line and not line.startswith('#') and not line.startswith('>') and not line.startswith('<!--'):
-            return line[:80] + ('...' if len(line) > 80 else '')
-    return ""
 
 con = sqlite3.connect(GLOBAL_DB)
 projects = con.execute("SELECT name, local_path FROM projects").fetchall()
@@ -49,7 +35,7 @@ for proj_name, proj_path in projects:
             continue
 
         content = src.read_text(encoding="utf-8")
-        # 去掉封面图引用
+        # 去掉封面图引用（图片在项目仓库，不在日志仓库）
         content = re.sub(r'^\!\[.*?\]\(.*?\)\s*\n*', '', content, count=1)
 
         try:
@@ -60,16 +46,14 @@ for proj_name, proj_path in projects:
         date = created[:10] if created else datetime.now().strftime("%Y-%m-%d")
         safe_title = title.replace('"', "'")
         tag_str = ", ".join('"' + t + '"' for t in tag_list)
-        summary = extract_summary(content).replace('"', "'")
 
-        # 兼容现有 frontmatter 格式
         fm = "---\n"
         fm += 'title: "' + safe_title + '"\n'
         fm += "date: " + date + "\n"
-        fm += "category: dev\n"
+        fm += "project: " + proj_name + "\n"
         fm += "tags: [" + tag_str + "]\n"
+        fm += "category: dev\n"
         fm += "status: draft\n"
-        fm += 'summary: "' + summary + '"\n'
         fm += "---\n\n"
 
         out_name = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", fname)

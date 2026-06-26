@@ -36,12 +36,8 @@
 
 | [思考](./journal/thinking/) | [实践](./journal/dev/) |
 |:---|:---|
-| [AI时代，律师到底在卖什么？](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [我把54个GitHub仓库砍到6个，然后想明白了一件事](./journal/dev/2026-06-25-github-reorganization.md) |
-| | [我的 AI Agent 终于能听懂我说话了](./journal/dev/self-growing-agent/hearing-journey.md) |
-| | [从一句话到 TypeScript 架构](./journal/dev/self-growing-agent/project-kickoff-ts-rewrite.md) |
-| | [换了 4 次 LLM 模型后我学到了什么](./journal/dev/self-growing-agent/llm-migration.md) |
-| | [给 AI Agent 造一套五感和记忆检索](./journal/dev/self-growing-agent/infrastructure-memory.md) |
-| | [踩坑与改进——从听觉 v1 到语音对话](./journal/dev/self-growing-agent/pitfalls-and-improvements.md) |
+| [2026-06-25-ai-era-what-lawyers-sell](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [project-kickoff-ts-rewrite](./journal/dev/self-growing-agent/project-kickoff-ts-rewrite.md) |
+
 
 ---
 
