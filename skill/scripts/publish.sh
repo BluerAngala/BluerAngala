@@ -1,7 +1,8 @@
 #!/bin/bash
 # journal publish — 全自动：generate + commit + push
 BLOG_DIR="$HOME/Documents/vibecoding/BluerAngala-journal"
-SKILL_DIR="$BLOG_DIR/journal/skill"
+SKILL_DIR="$BLOG_DIR/skill"
+
 
 echo "📝 同步开发日志..."
 
