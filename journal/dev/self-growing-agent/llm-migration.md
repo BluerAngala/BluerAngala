@@ -1,10 +1,10 @@
 ---
 title: "换了 4 次 LLM 模型后我学到了什么"
 date: 2026-06-26
-project: self-growing-agent
-tags: ["LLM", "function-calling", "架构", "build-in-public"]
 category: dev
+tags: ["LLM", "function-calling", "架构", "build-in-public"]
 status: draft
+summary: "故事要从前一天晚上说起。self-growing-agent 的心跳系统已经跑起来了——每隔几秒，它会自动执行一次「感知 → 记忆 → 思考 → 储存 → 行动..."
 ---
 
 # 换了 4 次 LLM 模型后我学到了什么

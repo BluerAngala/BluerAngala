@@ -1,10 +1,10 @@
 ---
 title: "从一句话到 TypeScript 架构——自生长 Agent 的 47 分钟诞生记"
 date: 2026-06-26
-project: self-growing-agent
-tags: ["AI Agent", "TypeScript", "自生长", "架构重写", "听觉系统"]
 category: dev
+tags: ["AI Agent", "TypeScript", "自生长", "架构重写", "听觉系统"]
 status: draft
+summary: "我打开终端，敲下第一行字。"
 ---
 
 ![从一句话到 TypeScript 架构](../images/project-kickoff-ts-rewrite-cover.png)
