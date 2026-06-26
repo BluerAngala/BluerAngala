@@ -1,0 +1,40 @@
+#!/bin/bash
+# journal 命令 — 开发日志管理
+#   journal init              — 初始化项目
+#   journal push [--all|N]    — 生成草稿（默认30条，--all全量，N指定条数）
+#   journal status            — 查看状态
+#   journal sync              — 同步到全局
+#   journal search <词>       — 全局搜索
+#   journal list              — 列出所有文章
+#   journal clean [天数]      — 清理过期草稿
+
+SCRIPT_DIR="$(cd "$(dirname "$(readlink "$0" 2>/dev/null || echo "$0")")" && pwd)"
+
+case "$1" in
+  init)    "$SCRIPT_DIR/init.sh" ;;
+  push)    "$SCRIPT_DIR/push.sh" "$2" ;;
+  status)  "$SCRIPT_DIR/status.sh" ;;
+  sync)    "$SCRIPT_DIR/sync.sh" ;;
+  search)  "$SCRIPT_DIR/search.sh" "$2" ;;
+  list)    "$SCRIPT_DIR/list.sh" ;;
+  series)  "$SCRIPT_DIR/series.sh" ;;
+  generate) python3 "$SCRIPT_DIR/generate.py" ;;
+  cover)   python3 "$SCRIPT_DIR/gen_cover.py" ;;
+  check)   "$SCRIPT_DIR/check.sh" ;;
+  clean)   "$SCRIPT_DIR/clean.sh" "$2" ;;
+  *)
+    echo "用法：journal [init|push [--all|N]|series|cover|generate|check|status|sync|search <词>|list|clean]"
+    echo ""
+    echo "  init              — 初始化项目"
+    echo "  push [--all|N]    — 生成草稿"
+    echo "  series            — 按里程碑分组生成系列草稿"
+    echo "  cover             — 为文章生成封面图"
+    echo "  generate          — 生成 GitHub 主页 build log"
+    echo "  check             — 检查文章是否符合规范"
+    echo "  status            — 查看状态"
+    echo "  sync              — 同步到全局数据库"
+    echo "  search <词>       — 全局搜索"
+    echo "  list              — 列出所有文章"
+    echo "  clean [天数]      — 清理过期草稿"
+    ;;
+esac
