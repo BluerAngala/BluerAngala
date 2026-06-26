@@ -1,7 +1,14 @@
 # 🔧 开发日志
 
-| 项目 | 文章数 | 最新 |
-|------|--------|------|
-| [self-growing-agent](self-growing-agent/) | 5 篇 | 从一句话到 TypeScript 架构——自生长 Agent 的 47 分钟诞生记 |
+## [self-growing-agent](self-growing-agent/)
 
-📊 总计 **5 篇**
+- [hearing-journey](self-growing-agent/hearing-journey.md)
+- [infrastructure-memory](self-growing-agent/infrastructure-memory.md)
+- [llm-migration](self-growing-agent/llm-migration.md)
+- [pitfalls-and-improvements](self-growing-agent/pitfalls-and-improvements.md)
+- [project-kickoff-ts-rewrite](self-growing-agent/project-kickoff-ts-rewrite.md)
+
+## 其他
+
+- [2026-06-25-github-reorganization](2026-06-25-github-reorganization.md)
+- [INDEX](INDEX.md)

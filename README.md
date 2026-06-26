@@ -63,14 +63,3 @@
 
 
 
-
-## 📝 Build in Public
-
-我正在做的一些项目的开发日志，记录技术选型、踩坑和产品思考。
-
-| 项目 | 文章 | 最新更新 |
-|------|------|---------|
-| [self-growing-agent](journal/dev/self-growing-agent/) | 5 篇 | 2026-06-26 |
-
-📊 总计 **5 篇公开文章** · **53 条技术素材**
-📖 [查看完整开发日志](journal/dev/INDEX.md)
